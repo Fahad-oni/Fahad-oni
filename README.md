@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Fahad Oni!;+an+aspiring;+Full+Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Fahad!;+a+passionate;+Front+End+Developer;" />
 </h1>
 Email Me 👉 ✉️ **fahadoni272@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
