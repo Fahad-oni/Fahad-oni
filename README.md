@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Fahad!;+a+passionate;+Front+End+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Fahad+Oni!;+an+aspiring;+Full-Stack+Developer;" />
 </h1>
-Email Me 👉 ✉️ **fahadoni272@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Web Development
 - 💬 **Ask me about:** Collaboration, Tech Support
@@ -10,14 +9,14 @@ Email Me 👉 ✉️ **fahadoni272@gmail.com** For Collaboration/Project or Anyt
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oni_197) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-oni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadoni272@gmail.com) 
 
-## About Me
-I'm based in Dhaka, Bangladesh, and I'm building my skills as a front-end web developer. I focus on HTML, CSS, and JavaScript fundamentals — creating responsive layouts, landing pages, and clean UI designs. I come from a tutoring background, so I care about explaining things simply, which shows in how I like my code: clear, beginner-friendly, and easy to follow. Always learning, always building. Check out my projects and feel free to reach out to me on GitHub!
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## About Me
+I'm based in Dhaka, Bangladesh, and I'm building my skills as a front-end web developer. I focus on HTML, CSS, and JavaScript fundamentals — creating responsive layouts, landing pages, and clean UI designs. I come from a tutoring background, so I care about explaining things simply, which shows in how I like my code: clear, beginner-friendly, and easy to follow. Always learning, always building. Check out my projects and feel free to reach out to me on GitHub!
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
