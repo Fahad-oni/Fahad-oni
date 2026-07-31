@@ -7,7 +7,7 @@
 - 😄 **Pronouns:** Fahad Oni
 
 
-  ## ⚡ Fun Facts
+## ⚡ Fun Facts
 
 ☕ Coffee keeps me coding.
 🎵 I enjoy coding while listening to music.
