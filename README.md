@@ -5,14 +5,10 @@
 - 🌱 **I’m currently learning:** Web Development
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Fahad Oni
-
-
-## ⚡ Fun Facts
-
-☕ Coffee keeps me coding.
-🎵 I enjoy coding while listening to music.
-🕷️ Huge Spider-Man fan.
-🌙 Night owl developer.
+- ☕ Coffee keeps me coding.
+- 🎵 I enjoy coding while listening to music.
+- 🕷️ Huge Spider-Man fan.
+- 🌙 Night owl developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oni_197) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-oni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadoni272@gmail.com) 
