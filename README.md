@@ -27,6 +27,7 @@ I'm based in Dhaka, Bangladesh, and I'm building my skills as a front-end web de
 ## 🎯 Goals for 2026
 
 - ✅ Master JavaScript
+- ⏳ Learn TypeScript
 - ⏳ Learn React
 - ⏳ Learn Backend
 - ⏳ Build 20+ Projects
