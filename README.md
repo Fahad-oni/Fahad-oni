@@ -28,6 +28,7 @@ I'm based in Dhaka, Bangladesh, and I'm building my skills as a front-end web de
 
 - ✅ Master JavaScript
 - ⏳ Learn TypeScript
+- learn Python
 - ⏳ Learn React
 - ⏳ Learn Backend
 - ⏳ Build 20+ Projects
