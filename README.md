@@ -13,7 +13,7 @@
 <div align="center">
 
 
-[Portfolio](/) • [LinkedIn](https://www.linkedin.com/in/fahad-oni/) • [GitHub](https://github.com/Fahad-oni) • [Email](mailto:mail.fahadoni@gmail.com)
+[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/fahad-oni/) • [GitHub](https://github.com/Fahad-oni) • [Email](mailto:mail.fahadoni@gmail.com)
 
 </div>
 
@@ -184,9 +184,6 @@ Deployment      ███████████████      Vercel • Ne
 
 </p>
 
-📧 **Email:** [fahadoni272@gmail.com](mailto:fahadoni272@gmail.com)
-💼 **LinkedIn:** linkedin.com/in/fahad-oni
-🐙 **GitHub:** github.com/Fahad-oni
 
 ---
 
