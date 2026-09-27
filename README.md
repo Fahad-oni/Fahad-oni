@@ -42,6 +42,8 @@ I'm based in Dhaka, Bangladesh, and I'm building my skills as a front-end web de
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fahad-oni&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div> <br>
 
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 
 
 <p align="center">
