@@ -159,31 +159,6 @@ Deployment      ███████████████      Vercel • Ne
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Fahad-oni">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="45" alt="GitHub"/>
-</a>
-&nbsp;
-
-<a href="https://linkedin.com/in/fahad-oni">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="45" alt="LinkedIn"/>
-</a>
-&nbsp;
-
-<a href="https://instagram.com/oni_197">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="45" alt="Instagram"/>
-</a>
-&nbsp;
-
-<a href="mailto:fahadoni272@gmail.com">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="45" alt="Email"/>
-</a>
-
-</p>
-
 
 ---
 
