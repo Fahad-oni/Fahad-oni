@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="bannerIMG.png" alt="Fahad Oni Banner" width="100%"/>
+   </p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Fahad+Oni;+Full-Stack+Developer;"/>
 </h1>
