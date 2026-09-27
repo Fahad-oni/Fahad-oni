@@ -37,11 +37,25 @@ My development journey started with **HTML, CSS, and JavaScript**, and I'm curre
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,vue,reactnative,daisyui&perline=10" />
 </p>
 
+| Technology  | Technology       | Technology     | Technology       | Technology  |
+| ----------- | ---------------- | -------------- | ---------------- | ----------- |
+| **HTML5**   | **CSS3**         | **JavaScript** | **TypeScript**   | **React**   |
+| **Next.js** | **Tailwind CSS** | **Vue.js**     | **React Native** | **DaisyUI** |
+
+---
+
 ### ⚙️ Backend & Database
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,supabase&perline=10" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,supabase&perline=6" />
 </p>
+
+| Technology  | Technology     | Technology   |
+| ----------- | -------------- | ------------ |
+| **Node.js** | **Express.js** | **NestJS**   |
+| **MongoDB** | **MySQL**      | **Supabase** |
+
+---
 
 ### 🧰 Tools & Platforms
 
@@ -49,11 +63,24 @@ My development journey started with **HTML, CSS, and JavaScript**, and I'm curre
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,figma,canva,vercel,netlify&perline=8" />
 </p>
 
+| Tool      | Tool       | Tool        | Tool        |
+| --------- | ---------- | ----------- | ----------- |
+| **Git**   | **GitHub** | **VS Code** | **Postman** |
+| **Figma** | **Canva**  | **Vercel**  | **Netlify** |
+
 ---
 
-## 📌 What I'm Working On
+### 🤖 Currently Exploring
 
-I'm currently focusing on strengthening my **full-stack development skills** through project-based learning.
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&perline=5" />
+</p>
+
+* **Python**
+* **AI Automation**
+* **AI-powered Applications**
+* **Backend Architecture**
+
 
 ### Current Focus
 
