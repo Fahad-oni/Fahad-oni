@@ -10,6 +10,14 @@
   Building modern, responsive, and scalable web applications.
 </p>
 
+<div align="center">
+
+
+[Portfolio](/) • [LinkedIn](https://www.linkedin.com/in/fahad-oni/) • [GitHub](https://github.com/Fahad-oni) • [Email](mailto:mail.fahadoni@gmail.com)
+
+</div>
+
+
 <p align="center">
   <a href="https://github.com/Fahad-oni">
     <img src="https://komarev.com/ghpvc/?username=Fahad-oni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
