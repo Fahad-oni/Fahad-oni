@@ -67,13 +67,7 @@ I care about writing clean, understandable code and continuously improving throu
 
 ---
 
-## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/oni_197)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/fahad-oni)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fahadoni272@gmail.com)
-
----
 
 ## 🎯 Goals for 2026
 
